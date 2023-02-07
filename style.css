@@ -1,0 +1,40 @@
+.card-1{
+    position: absolute;
+    background-color: rgb(170, 56, 75);
+    width: 300px;
+    height: 350px;
+    padding-top: 5px;
+    top: 2;
+    
+
+}
+.first{
+    padding-top: 5px;
+    padding-left: 3px;
+}
+.card-2{
+    position: fixed;
+    top: 250px;
+    background-color: darksalmon;
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+    z-index: 1;
+}
+.second{
+    padding-left: 5px;
+
+}
+.card-3{
+    width: 600px;
+    height: 200px;
+    background-color: rgb(243, 87, 113);
+    position: relative;
+    top: 350px;
+    left: 150px;
+    
+}
+.third{
+    padding-left: 5px;
+    padding-top: 2px;
+}
